@@ -25,7 +25,7 @@ class App extends Component {
     this.setState({
       todos
     })
-
+      
   }
   render(){
     return (
@@ -37,5 +37,4 @@ class App extends Component {
     );
   }
 }
-
 export default App;
